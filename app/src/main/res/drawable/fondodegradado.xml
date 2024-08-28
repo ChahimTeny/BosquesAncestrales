@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:shape="rectangle"
+    android:width="411dp"
+    android:height="823dp"
+    android:viewportWidth="411"
+    android:viewportHeight="823">
+
+    <gradient
+        android:type="linear"
+        android:startColor="@color/azul"
+        android:endColor="@color/white"
+        android:angle="60"
+        android:translateX="1.579"
+        android:translateY="-2.441"
+        android:pivotX="205.5"
+        android:pivotY="411.5"
+        android:scaleX="6.955"
+        android:scaleY="6.636"
+        android:rotation="72.007"
+        android:startX="102.75"
+        android:startY="411.5"
+        android:endX="308.25"
+        android:endY="411.5">
+
+    </gradient>
+
+
+</shape>
+
